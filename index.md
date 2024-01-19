@@ -26,6 +26,12 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+``` 
+#Shyam Sivasubramanian
+## favorite things about cs193
+- I get to learn about CS tools
+```
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
